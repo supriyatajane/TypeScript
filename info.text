@@ -1,0 +1,9 @@
+// helps coder
+
+// npm init  ---- package
+// npm install typescript --save-dev
+// npx tsc --init --rootDir src --outDir build
+// npx tsc
+
+//typescript are detect the error during code compilation so coder easily write the code error free
+//typescript compiler very smart
