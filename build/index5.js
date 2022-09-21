@@ -27,6 +27,6 @@ console.log(dep.country); //only acess the readonly prperty
 //Const is a compile time constant. The value of the const field can not be changed. const is for variables
 let admin = {
     name: 'bill gates',
-    information: dep.information
+    information: dep.information //acess the department class function here
 };
 admin.information();

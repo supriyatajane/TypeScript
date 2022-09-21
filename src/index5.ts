@@ -41,7 +41,8 @@ console.log(dep.country)//only acess the readonly prperty
 
 let admin={
     name:'bill gates',
-    information:dep.information
+    information:dep.information//acess the department class function here
+    
 
 }
 admin.information()
