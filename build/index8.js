@@ -115,3 +115,7 @@ class BCI extends IDBI {
 let bb = new BCI();
 bb.loan(32);
 bb.save(23);
+// we cannot create object of abstract class
+// if abstract class is having abstract methods , those who inherit abstract class need to 
+// give definition for methods
+// abstract class can have abstract and and non abstract method
